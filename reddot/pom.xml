@@ -100,8 +100,8 @@
 
 </dependencies>
 
-  <build>
+ <build>
     <finalName>reddot</finalName>
-  </build>
+ </build>
   
 </project>
